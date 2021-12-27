@@ -1,0 +1,14 @@
+spring:
+
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://175.24.233.44:3306/DataWarehouse
+    username: root
+    password: password
+
+server:
+  port: 8085
+
+swagger:
+  enabled: true
+

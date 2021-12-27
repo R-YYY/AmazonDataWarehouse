@@ -1,0 +1,29 @@
+----------------------------------------------------------------
+Mon Dec 27 22:58:52 CST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-017d-fc66-a8b5-0000021bf6a8 
+on database directory memory:E:\PC\Desktop\dwh_hive\f4e6fc49-f61e-4ecd-b64e-74f9fc8fd527 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@63947c6b 
+Loaded from file:/D:/Maven/Maven_jar/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=17+35-LTS-2724
+user.dir=E:\PC\Desktop\dwh_hive
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon Dec 27 22:58:53 CST 2021:
+Shutting down instance a816c00e-017d-fc66-a8b5-0000021bf6a8 on database directory memory:E:\PC\Desktop\dwh_hive\f4e6fc49-f61e-4ecd-b64e-74f9fc8fd527 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@63947c6b 
+----------------------------------------------------------------
+Mon Dec 27 22:58:53 CST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 0ddd00a9-017d-fc66-a8b5-0000021bf6a8 
+on database directory memory:E:\PC\Desktop\dwh_hive\f4e6fc49-f61e-4ecd-b64e-74f9fc8fd527 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@63947c6b 
+Loaded from file:/D:/Maven/Maven_jar/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=17+35-LTS-2724
+user.dir=E:\PC\Desktop\dwh_hive
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

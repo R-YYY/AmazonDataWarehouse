@@ -1,0 +1,14 @@
+spring:
+
+  datasource:
+    driver-class-name: org.apache.hive.jdbc.HiveDriver
+    url: jdbc:hive2://192.168.233.129:10000/hive
+    username: root
+    password: 1472
+
+server:
+  port: 8087
+
+swagger:
+  enabled: true
+
